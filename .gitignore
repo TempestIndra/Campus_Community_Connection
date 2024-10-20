@@ -2,3 +2,4 @@ backend/scraper/campuscommunityconnection
 backend/.env
 backend/node_modules
 .env
+backend/package-lock.json
